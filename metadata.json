@@ -1,0 +1,7 @@
+{
+  "name": "Digital Atelier",
+  "description": "Transform your portraits into high-fidelity 3D characters using neural synthesis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
